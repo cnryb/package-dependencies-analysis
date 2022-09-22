@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cnryb/package-dependencies-analysis/issues"
   },
-  "homepage": "https://github.com/cnryb/package-dependencies-analysis#readme"
+  "homepage": "https://github.com/cnryb/package-dependencies-analysis#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }

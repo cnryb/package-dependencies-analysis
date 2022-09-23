@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cnryb/package-dependencies-analysis#readme",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "semver": "^7.3.7"
   }
 }
